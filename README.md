@@ -4,7 +4,13 @@
 [![13.6 iOS](https://img.shields.io/badge/iOS-13x+-blue.svg)](https://github.com/Naereen/badges)
 
 ## Anotaciones
-La app será compatible con iOS10 en adelante.
+App donde se incorpora Firebase como metodo de autenticacion, crashlytics y más.
 
 ## Detalles
-En proceso...
+Se debe crear una cuenta en Firebase
+Se debe crear un proyecto en Firebase donde se alojara la App.
+Se debe crear una App, del tipo iOS con el BundleID del xCode
+Se debe resguardar el archivo GoogleService-info.plist
+Incorporar al proyecto el archivo
+Agregar las dependencias de Cocoapods necesarias
+...
